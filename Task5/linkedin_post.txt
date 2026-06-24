@@ -1,0 +1,36 @@
+🚀 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 that I have completed my  
+𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 at ApexPlanet Software Pvt Ltd .! 🎓  
+
+Over the past few weeks, I worked on 𝟱 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:  
+
+📌 𝗧𝗮𝘀𝗸 𝟭 — Data Immersion & Wrangling  
+➡ Cleaned and prepared Superstore dataset using Python & Pandas  
+
+📌 𝗧𝗮𝘀𝗸 𝟮 — EDA & Business Intelligence  
+➡ Performed exploratory analysis, SQL queries & built dashboards  
+using Python + Power BI  
+
+📌 𝗧𝗮𝘀𝗸 𝟯 — Deep-Dive Analysis & Interactive Dashboarding  
+➡ Defined KPIs, performed cohort analysis & built interactive dashboard  
+
+📌 𝗧𝗮𝘀𝗸 𝟰 — Data Storytelling & Statistical Validation  
+➡ Created final presentation with hypothesis testing & business insights  
+
+📌 𝗧𝗮𝘀𝗸 𝟱 — Capstone & Portfolio Finalization  
+➡ Consolidated all work into a professional GitHub portfolio  
+
+🛠 𝗦𝗸𝗶𝗹𝗹𝘀 𝗜 𝗯𝘂𝗶𝗹𝘁:  
+✅ Python (Pandas, NumPy, Matplotlib, Seaborn)  
+✅ SQL (Aggregations, Joins, Subqueries)  
+✅ Power BI Dashboards  
+✅ Statistical Analysis & Hypothesis Testing  
+✅ Data Storytelling & Presentation  
+
+🔗 𝗩𝗶𝗲𝘄 𝗺𝘆 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼:
+https://lnkd.in/g6MvKsA9
+
+This internship gave me hands-on experience with real-world data  
+and taught me that **data without storytelling is just numbers.**
+
+#DataAnalytics #Python #SQL #PowerBI #Internship #ApexPlanet
+#DataScience #MCA #GitHub #Portfolio
